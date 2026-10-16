@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.python_history
+.emulator_console_auth_token
+
+# Runtime data: uploaded logs, parsed results and reports may contain sensitive info
+uploads/
+database.db
+*.db
+ai_log_report.csv
